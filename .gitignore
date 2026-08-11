@@ -1,3 +1,7 @@
 node_modules/
 
 .vercel
+
+# Local agent tooling (multi-AI portfolio standard — Wave 3)
+.cursor/
+AUTONOMOUS_LOOP.md
