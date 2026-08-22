@@ -55,3 +55,7 @@ Before push: skill `deployment-readiness`.
 1. Manual browser check of changed pages
 2. `code-review` on diff
 3. UPDATE + RELEASE in ACTIVE-WORK if claimed
+
+## Portfolio Standing Rules
+
+- Follow `C:\dev\ai-shared\GITHUB-ACTIONS-CI-COST-CONTROL.md` — develop and validate locally first; use GitHub Actions for independent confirmation, not as the debug loop.
